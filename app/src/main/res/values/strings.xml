@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="movie_title" />
+    <string name="enter_movie_title_here" />
+    <string name="genree" />
+    <string name="enter_movie_genre_here">\n</string>
+    <string name="yearr" />
+    <string name="enter_year_of_movie_release_here" />
+    <string name="rating" />
+    <string name="insert" />
+    <string name="show_list" />
+    <string name="show_all_pg13_movies" />
+    <string name="go_back" />
+</resources>
